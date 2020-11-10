@@ -1,3 +1,4 @@
+#Dockerfile for challenge1
 FROM ubuntu:18.04
 MAINTAINER Aleksandar Diklic "https://github.com/rastasheep"
 
