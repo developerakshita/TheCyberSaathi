@@ -22,3 +22,4 @@ RUN apt-get clean && \
 EXPOSE 22
 
 CMD    ["/usr/sbin/sshd", "-D"]
+
