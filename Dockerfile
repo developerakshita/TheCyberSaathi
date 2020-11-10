@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 #Dockerfile for challenge1
+=======
+<<<<<<< HEAD
+=======
+#Dockerfile for challenge1
+>>>>>>> release/1.0.0
+>>>>>>> 634c4227e1a9341178bfb1fb410743f923f4ee56
 FROM ubuntu:18.04
 MAINTAINER Aleksandar Diklic "https://github.com/rastasheep"
 
@@ -22,4 +29,11 @@ RUN apt-get clean && \
 EXPOSE 22
 
 CMD    ["/usr/sbin/sshd", "-D"]
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+
+=======
+>>>>>>> release/1.0.0
+>>>>>>> 634c4227e1a9341178bfb1fb410743f923f4ee56
